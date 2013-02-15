@@ -1,7 +1,7 @@
 {
 	"name": "syslogd-to-redis",
 	"description": "Simple syslogd to redis connector",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"engines": { "node": ">=0.8.18" },
 	"contributors": [ 
     {
@@ -16,6 +16,6 @@
     "author": "Kris Linquist",
     "repository": {
       "type": "git"
-    , "url": ""
+    , "url": "https://github.com/klinquist/syslogd-to-redis"
     }
 }
